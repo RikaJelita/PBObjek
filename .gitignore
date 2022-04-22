@@ -24,3 +24,5 @@ hs_err_pid*
 /Section 1/HelloWorld/build/
 /Section 2/Text01/build/
 /Section 2/Text01/nbproject/private/
+/Section 2/Text02/nbproject/private/
+/Section 2/Text02/build/
